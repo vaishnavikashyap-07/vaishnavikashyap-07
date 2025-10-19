@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaishnavi!
+
+💻 I'm learning Python and exploring the IT world.  
+🌸 I love creating small fun projects and participating in events like Hacktoberfest!  
+
+---
+
+### 🏆 Achievements
+[(https://holopin.me/@vaishnavikashyap07?verified=true#badges)](https://holopin.io/@vaishnavikashyap07)
 
 <!--
 **vaishnavikashyap-07/vaishnavikashyap-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
