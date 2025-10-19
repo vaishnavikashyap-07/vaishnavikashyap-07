@@ -1,24 +1,36 @@
-# 👋 Hi, I'm Vaishnavi!
+<!-- 💻 Techy Aesthetic GitHub Profile README -->
 
-💻 I'm learning Python and exploring the IT world.  
-🌸 I love creating small fun projects and participating in events like Hacktoberfest!  
+<h1 align="center">Hey there 👋, I'm Vaishnavi</h1>
+<h3 align="center">💻 Python Learner | Open Source Enthusiast | Future IT Professional</h3>
+
+---
+
+### ⚙️ About Me
+- 🧩 Exploring Python, GitHub, and Open Source  
+- 🎯 Preparing for JEE & building my skills for the IT field  
+- 🪄 I like creating small projects that mix logic with creativity  
+- ⚡ Fun fact: I can stay up all night fixing one tiny bug 😅  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode" />
+</p>
 
 ---
 
 ### 🏆 Achievements
-[(https://holopin.me/@vaishnavikashyap07?verified=true#badges)](https://holopin.io/@vaishnavikashyap07)
+[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@vaishnavikashyap07)](https://holopin.io/@vaishnavikashyap07)
 
-<!--
-**vaishnavikashyap-07/vaishnavikashyap-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/vaishnavikashyap-07" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40px" /></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-kashyap-aa1618382/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ **“Code. Learn. Repeat.”**
